@@ -927,6 +927,23 @@ header > form {
 }
 
 
+.Parth-Verma {
+  padding: 7% 15%;
+  background-color: linear-gradient(to left, lightgreen, yellow);
+  text-align: center;
+}
+
+#Parth-Verma {
+  font-family: "Sacramento";
+  line-height: 2.5;
+}
+
+#Parth-Verma-Para {
+  font-family: "Montserrat";
+  line-height: 2;
+}
+
+
 .akshay_p {
   margin-top: 0px;
   color: darkgray;
